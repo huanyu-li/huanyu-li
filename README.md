@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an Assistant Professor at the [Division of Human-Centered Systems](https://liu.se/en/organisation/liu/ida/hcs), [https://liu.se/en/organisation/liu/ida](Department of Computer and Information Science) (IDA), [https://liu.se](Linköping University).
 
-- <div align="center">
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=huanyu-li&theme=dark" />
 </a>
