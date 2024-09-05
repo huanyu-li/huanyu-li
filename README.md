@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as an Assistant Professor at the [Division of Human-Centered Systems](https://liu.se/en/organisation/liu/ida/hcs), [https://liu.se/en/organisation/liu/ida](Department of Computer and Information Science) (IDA), [https://liu.se](Linköping University).
+- 🔭 I’m currently working as an Assistant Professor at the [Division of Human-Centered Systems](https://liu.se/en/organisation/liu/ida/hcs), [Department of Computer and Information Science](https://liu.se/en/organisation/liu/ida) (IDA), [Linköping University](https://liu.se).
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
